@@ -1,0 +1,3 @@
+330309234|Sofia|Quam eum ad-Tempora laboriosam omnis-Quisquam eaque cumque---|892.04|False|0.0|892.04|
+6|Nicola|Quam eum ad-Quae atque magnam-Quam eum ad--|1597.32|True|239.6|1357.72|
+6|Nicola|Quisquam eaque cumque-Quisquam eaque cumque-Quam eum ad-Quae atque magnam-Illum eum occaecati-Quam eum ad-|3107.64|True|466.15|2641.49|
